@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Fingers Game</string>
+    <string name="choose_one_or_two_fingers">Choose One or Two Fingers</string>
+    <string name="two_finger">Two Finger</string>
+    <string name="one_finger">One Finger</string>
+    <string name="comp_odds">Comp (odds)</string>
+    <string name="you_even">You (Even)</string>
+    <string name="todo">TODO</string>
+    <string name="todo1">TODO</string>
+    <string name="settings">settings</string>
+    <string name="statistics">statistics</string>
+</resources>
